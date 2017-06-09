@@ -9,9 +9,9 @@ Execute following commands to run this application.
 
 ## Start Project
 ```
-$ git clone https://github.com/srinivastamada/NodeRestful.git
+$ git clone https://github.com/pragya-olx/delhimetro.git
 
-$ cd NodeRestful
+$ cd delhimetro
 
 $ npm install
 
@@ -25,7 +25,6 @@ http://localhost:8000/helloworld
 ```
 
 
-Tutorial: <a href="http://www.9lessons.info/2017/02/create-restful-api-nodejs-mysql.html">Create a RESTful API using NodeJS and MySQL Database</a>
 
 ##GET
 
